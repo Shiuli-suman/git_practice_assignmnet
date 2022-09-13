@@ -7,7 +7,7 @@ for(let i=0;i<=num;i++){
         factor++;
     }
 }
-if(factor!=2){
+if(factor===2){
     console.log("Yes");
 }else{
     console.log("No");
